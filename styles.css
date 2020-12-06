@@ -7,7 +7,7 @@
     color: white;
 }
 a{
-    color: white;
+    color: silver;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
@@ -23,4 +23,19 @@ a:hover{
 }
 nav ul li{
     padding: 10px;
+}
+.example2 ul{
+    list-style-type: none;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0%;
+    margin-left: 20%;
+    color: white;
+    text-align: center;
+}
+#example3 a{
+    color: slategray;
+}
+#example3 a:visited {
+     color: green;
 }
