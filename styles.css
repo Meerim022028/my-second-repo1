@@ -39,3 +39,37 @@ nav ul li{
 #example3 a:visited {
      color: green;
 }
+header{
+    justify-content: center;
+    margin: auto;
+}
+ h1{
+    margin: auto;
+    color: slateblue;
+   text-align: center;
+   margin-left: 20%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    margin: auto;
+    color: slateblue;
+   text-align: center;
+   margin-left: 20%;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: bold;
+   text-shadow: 0 0 0 10px rgba(0, 0, 0, 5px);
+}
+.button1{
+    border-radius: 15px;
+    padding: 10px 35px;
+    margin: auto;
+    color: teal;
+    border: 1px solid white;
+}
+.button2{
+    border-radius: 15px;
+    padding: 8px 40px;
+    margin: auto;
+    color: seagreen;
+    border: 1px solid ;
+}
