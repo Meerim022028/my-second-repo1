@@ -323,3 +323,27 @@ article p{
     order: 1;
     box-shadow: 0 0 5px rgba(196, 36, 36);
 }
+
+.container-1{
+    display: flex;
+    padding: 5px;
+}
+
+.container-1 div{
+    padding: 10px;
+    border: solid 1px silver;   
+}
+.box1{
+    border: solid 1px silver;
+}
+.box2{
+    border: solid 1px silver;
+    padding-right: 30%;
+}
+h4{
+    color: green;
+    text-transform: uppercase;
+}
+h5{
+    color: silver;
+}
