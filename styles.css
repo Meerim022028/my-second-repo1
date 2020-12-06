@@ -73,3 +73,27 @@ p{
     color: seagreen;
     border: 1px solid ;
 }
+.wrap{
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    transition: 0.4;
+    width: 300px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    float: left;
+    margin: 10px;
+    margin-left: 50%;
+}
+.card:hover{
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+.container{
+    padding: 2px 14px;
+
+}
