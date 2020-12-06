@@ -266,3 +266,28 @@ table,th,td{
     border-collapse: collapse;
 
 }
+
+section{
+    max-width: 500px;
+    text-align: center;
+    font-family: 'Syne Tactile', cursive;
+    font-family: 'Trispace', sans-serif;
+
+     background-color: cadetblue;
+     color: white;
+     padding: 10px;
+     border-radius: 10px;
+    margin-left: 30%;
+    
+}
+section h1{
+    font-size: 25px;
+}
+
+main{
+    text-align: justify;
+    font-family: 'Turret Road', cursive;
+    background-color: rgb(245, 221, 192);
+    padding: 15px;
+    border-radius: 15px;
+}
