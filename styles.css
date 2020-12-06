@@ -291,3 +291,35 @@ main{
     padding: 15px;
     border-radius: 15px;
 }
+nav,ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+article{
+    box-shadow: 0 0 5px rgba(0, 0, 0, -5);
+    padding: 5px 15px;
+    border-radius: 15px;
+
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex:1 1 ;
+}
+article h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#exemple3{
+    flex-grow: 20;
+}
+.important{
+    order: 1;
+    box-shadow: 0 0 5px rgba(196, 36, 36);
+}
