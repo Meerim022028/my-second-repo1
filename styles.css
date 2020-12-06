@@ -115,3 +115,7 @@ p{
 .skew:hover{
     transform: skew(10deg,20deg);
 }
+td{
+    width: 200px;
+    height: 200px;
+}
