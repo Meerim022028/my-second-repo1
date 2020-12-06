@@ -115,10 +115,7 @@ p{
 .skew:hover{
     transform: skew(10deg,20deg);
 }
-td{
-    width: 200px;
-    height: 200px;
-}
+
 fieldset{
     background-color: white;
     width: 200px;
@@ -147,4 +144,107 @@ fieldset:hover{
 }
 input:hover{
     box-shadow:0 8px 15px 0 rgba(0, 0, 0, 0.5);
+}
+#exemple-0{
+    background-color: yellow;
+    color: white;
+    width: 200px ;
+    height: 200px;
+}
+#exemple-1{
+    background-color: red;
+    color: white;
+    width: 50px ;
+    height: 50px;
+}
+
+#exemple-4{
+    background-color: black;
+    color: white;
+    width: 10px ;
+    height: 300px;
+}
+
+#exemple-3{
+    background-color: white;
+    color: white;
+    width: 150px ;
+    height: 20px;
+}
+
+#exemple-2{
+    background-color: blue;
+    color: white;
+    width: 60px ;
+    height: 60px;
+}
+
+#exemple-6{
+    background-color:coral ;
+    color: white;
+    width: 60px ;
+    height: 60px;
+}
+
+
+#exemple-6 {
+    background-color: blue;
+    color: white;
+    width: 50px ;
+    height: 50px;
+}
+#exemple-7 {
+    background-color: greenyellow;
+    color: white;
+    width: 100px ;
+    height: 50px;
+}
+
+#exemple-8 {
+    background-color: yellow;
+    color: white;
+    width: 150px ;
+    height: 50px;
+}
+
+#exemple-9 {
+    background-color: hotpink;
+    color: white;
+    width: 50px ;
+    height: 100px;
+}
+
+#exemple-10{
+    background-color: red;
+    color: white;
+    width: 100px ;
+    height: 100px;
+}
+
+#exemple-11{
+    background-color:violet;
+    color: white;
+    width: 150px ;
+    height: 100px;
+}
+
+#exemple-12{
+    background-color:brown;
+    color: white;
+    width: 50px ;
+    height: 150px;
+}
+
+#exemple-13{
+    background-color:black;
+    color: white;
+    width: 100px ;
+    height: 150px;
+}
+
+#exemple-14{
+    background-color:blue;
+    color: white;
+    width: 150px ;
+    height: 150px;
 }
