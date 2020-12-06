@@ -248,3 +248,21 @@ input:hover{
     width: 150px ;
     height: 150px;
 }
+
+
+ul:first-of-type{
+    list-style-position: inside;
+    list-style-type: square;
+    
+}
+
+
+ul:nth-of-type(1){
+    list-style-image: url(./images.png);
+}
+
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+
+}
