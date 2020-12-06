@@ -1,3 +1,8 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+ 
  .example1 ul{
     list-style-type: none;
     display: flex;
@@ -96,4 +101,17 @@ p{
 .container{
     padding: 2px 14px;
 
+}
+
+.rotate:hover{
+    transform: rotate(20deg);
+}
+.translate:hover{
+    transform: translate(10px,50px);
+}
+.scale:hover{
+    transform: scale(0.9,0.8);
+}
+.skew:hover{
+    transform: skew(10deg,20deg);
 }
