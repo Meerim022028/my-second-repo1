@@ -360,3 +360,10 @@ h5{
     border: 2px dashed black;
     box-shadow: 0 0 5px rgba(196, 36, 36);
 }
+#example3{
+    width: 80px;
+    height: 80px;
+    border: 4px dotted rgb(158, 147, 147);
+    box-shadow: 0 0 5px rgba(196, 36, 36);
+    border-radius: 30px;
+}
