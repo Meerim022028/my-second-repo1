@@ -250,14 +250,14 @@ input:hover{
 }
 
 
-ul:first-of-type{
+.example10:first-of-type{
     list-style-position: inside;
     list-style-type: square;
     
 }
 
 
-ul:nth-of-type(1){
+.example10:nth-of-type(1){
     list-style-image: url(./images.png);
 }
 
