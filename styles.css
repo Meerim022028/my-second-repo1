@@ -119,3 +119,32 @@ td{
     width: 200px;
     height: 200px;
 }
+fieldset{
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    
+    padding-top: 40px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+legend{
+    font-weight: 20px;
+    font-size: 20px;
+}
+input{
+    border-radius: 5px;
+    padding:9px ;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+
+}
+fieldset:hover{
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+input:hover{
+    box-shadow:0 8px 15px 0 rgba(0, 0, 0, 0.5);
+}
